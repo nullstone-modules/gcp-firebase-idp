@@ -1,0 +1,14 @@
+org_name: nullstone
+name: gcp-firebase-idp
+friendly_name: Firebase Identity Platform
+description: Configures an Identity Platform with Firebase in a GCP project.
+category: datastore
+subcategory: ""
+provider_types:
+    - gcp
+platform: firebase
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
+tool_name: opentofu
